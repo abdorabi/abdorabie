@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "862692979713",
+    "project_id": "phone-704da",
+    "storage_bucket": "phone-704da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862692979713:android:5874f20df7b749a7277c00",
+        "android_client_info": {
+          "package_name": "com.example.amit_alex_4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmlt-YiTa1ivsQypos11VW-qe7bEqHCfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

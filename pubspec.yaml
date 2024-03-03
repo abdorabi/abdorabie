@@ -1,0 +1,39 @@
+name: phone_application
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.4
+  firebase_auth: ^4.17.4
+  gap: ^3.0.1
+  http: ^1.2.0
+  intl: ^0.18.1
+  shared_preferences: ^2.2.2
+  sqflite: ^2.3.2
+  syncfusion_flutter_datepicker: ^24.2.5
+  table_calendar: ^3.0.9
+  firebase_core: ^2.25.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/R.jpeg
+    - assets/OIP.jpeg
+    - assets/IMG_7645.JPG
+    - assets/images.png  
+
+    
+    
+
+
